@@ -77,11 +77,11 @@
 // }
 //Начало пятой задачи
 
-Console.WriteLine("Get number, please");
-int num1 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Get number, please");
+// int num1 = Convert.ToInt32(Console.ReadLine());
 
-int result= num1%10;
+// int result= num1%10;
 
-Console.WriteLine(result);
+// Console.WriteLine(result);
 
 // Конец первого семинара
